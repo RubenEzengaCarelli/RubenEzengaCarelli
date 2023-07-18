@@ -15,7 +15,7 @@
 
 ### 😶‍🌫️ Sobre mí:
 
-- 📈 Criterio metódico y analítico para tomar decisiones..
+- 📈 Criterio metódico y analítico para tomar decisiones.
 
 - 🔎 Capacidad de encontrar y generar mejoras continuas.
 

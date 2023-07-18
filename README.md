@@ -15,11 +15,11 @@
 
 ### 😶‍🌫️ Sobre mí:
 
-- 📈 Criterio metódico y analítico para tomar desiciones.
+- 📈 Criterio metódico y analítico para tomar decisiones..
 
 - 🔎 Capacidad de encontrar y generar mejoras continuas.
 
-- 🚀 Me apaciona aprender nuevas tecnologias que mejoren mi trabajo.
+- 🚀  Me apasiona aprender nuevas tecnologías que mejoren mi trabajo.
 
 - 🧑‍💻 Actualmente estoy aprendiendo **Data Warehouse, AWS Cloud y Git**.
 

@@ -1,4 +1,4 @@
-<img src = "https://img.shields.io/badge/LinkedIn-you_like-blue" />
+
 <div id = "header" align = "center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZpYjRmZXhpZzB0MHVicnNmbTc3ZG5yd2lrM2U2eHRheGk4NXNkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width = 300 height = 200>
     <h1 align = "center">
@@ -8,7 +8,7 @@
         Un apasionado por los datos! Python y el continuo aprendizaje 🚀
     </h3>
     <a href = "https://www.linkedin.com/in/rubenezengacarelli/">
-        <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src = "https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin"/>
     </a>
 </div>
 
@@ -36,37 +36,36 @@
 - Herramientas **ETL, procesamiento, modelado y visualización de datos, Machine Learning**:
     
     <div>
-        <img src = "https://cdn-icons-png.flaticon.com/128/5968/5968350.png" title="Python" alt="Python" width="40" height="40" />
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" title="Pandas" alt="Pandas" width="70" height="30" />
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="60" height="40" />
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" title="Numpy" alt="Numpy" width="70" height="30" />
-        <img src = "https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40" />
-        <img src = "https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40" />
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" title="Jupyter" alt="Jupyter" width="40" height="40" />
+        <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+        <img src = "https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=E80089"/>
+        <img src = "https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=319ACE"/>
+        <img src = "https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=4CADD0"/>
+        <img src = "https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+        <img src = "https://img.shields.io/badge/Seaborn-434774?style=for-the-badge&logo=Seaborn"/>
+        <img src = "https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
     </div>
     <div>
-        <img src = "https://cdn-icons-png.flaticon.com/128/732/732220.png" title="Excel" alt="Excel" width="40" height="40" />
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" title="PowerBI" alt="PowerBI" width="40" height="40" />
+        <img src = "https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+        <img src = "https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
     </div>
 - **Bases de datos y lenguajes de consulta**:
     <div>
-        <img src = "https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" alt="SQL" width="40" height="40" />
-        <img src = "https://dotnetvibes.files.wordpress.com/2018/01/nosql-database.png" title="NoSQL" alt="NoSQL" width="40" height="40" />
-        <img src = "https://cdn.iconscout.com/icon/free/png-512/free-mysql-21-1174941.png?f=avif&w=256" title="MySQL" alt="MySQL" width="40" height="40" />
-        <img src = "https://cdn.iconscout.com/icon/free/png-512/free-postgresql-11-1175122.png?f=avif&w=256" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
-        <img src = "https://cdn.iconscout.com/icon/free/png-512/free-sqlite-282687.png?f=avif&w=256" title="SQLite" alt="SQLite" width="40" height="40" />
-        <img src = "https://cdn.iconscout.com/icon/free/png-512/free-mongodb-5-1175140.png?f=avif&w=256" title="MongoDB" alt="MongoDB" width="40" height="40" />
+        <img src = "https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=SQL&logoColor=black"/>
+        <img src = "https://img.shields.io/badge/NoSQL-black?style=for-the-badge&logo=nosql&logoColor=white"/>
+        <img src = "https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src = "https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src = "https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+        <img src = "https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </div>
 - **Entornos y herramientas Front-End**:
     <div>
-        <img src = "https://cdn.iconscout.com/icon/premium/png-512-thumb/html-2752158-2284975.png?f=avif&w=256" title="HTML5" alt="HTML5" width="40" height="40" />
-        <img src = "https://cdn.iconscout.com/icon/free/png-512/free-css3-11-1175239.png?f=avif&w=256" title="CSS3" alt="CSS3" width="40" height="40" />
-        <img src = "https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-226077.png?f=avif&w=256" title="Bootstrap" alt="Bootstrap" width="40" height="40" />
-        <img src = "https://cdn.iconscout.com/icon/premium/png-512-thumb/javascript-2752148-2284965.png?f=avif&w=256" title="JavaScript" alt="JavaScript" width="40" height="40" />
-        <img src = "https://cdn.iconscout.com/icon/free/png-512/free-react-4-1175110.png?f=avif&w=256" title="ReactJS" alt="ReactJS" width="40" height="40" />
-        <img src = "https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png?f=avif&w=256" title="Java" alt="Java" width="40" height="40" />
-        <img src = "https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-1868941-1583105.png?f=avif&w=256" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" />
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" title="IntellijIDEA" alt="IntellijIDEA" width="40" height="40" />     
+        <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"/>
+        <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+        <img src = "https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src = "https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src = "https://img.shields.io/badge/java-ED2D2C?style=for-the-badge&logo=java&logoColor=0373BF"/>
+        <img src = "https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+        <img src = "https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=FE2D5D"/> 
     </div>
 </div>
 
